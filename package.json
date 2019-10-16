@@ -1,0 +1,24 @@
+{
+  "name": "Zad.-24.5",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+     "test": "mocha index.test.js",
+     "test:watch": "onchange \"./*.js\" -- npm test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/agnieszkaszymlak/Zad.-24.5.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/agnieszkaszymlak/Zad.-24.5/issues"
+  },
+  "homepage": "https://github.com/agnieszkaszymlak/Zad.-24.5#readme",
+  "devDependencies": {
+    "mocha": "^6.2.1"
+  }
+}
